@@ -17,7 +17,7 @@ redirect_from:
 
 <!-- <span class='anchor' id='about-me'></span> -->
 
-# 🤵 Introduction
+# 👨‍🔬 Introduction
 The Intelligent Sensing and Computing Laboratory is dedicated to advancing the field of intelligent detection and information processing through innovative research and cutting-edge technology. Rooted in the robust theoretical foundations of deep learning and multimodal large models, our laboratory spearheads efforts in developing state-of-the-art methodologies and applications.
 Our research portfolio spans a diverse range of areas including target detection, pedestrian re-identification, behavior analysis, and multimodal intelligent human-machine interaction. In addition, we explore advanced techniques in infrared image processing, optical fiber signal intelligent detection, and biomedical signal analysis. By integrating these disciplines, we aim to create intelligent systems that can efficiently and accurately interpret complex data from various sources.
 Committed to pushing the boundaries of artificial intelligence, our laboratory focuses on both theoretical research and practical implementations. We strive to address real-world challenges by developing novel algorithms and systems, fostering an environment of interdisciplinary collaboration, and contributing to the evolution of intelligent sensing and computing technologies.
@@ -41,6 +41,12 @@ The MPD-OFT dataset employs a top–down perspective. The closed-circuit televis
 - Open Scene With Background
 </div>
 </div>
+The MPD-OFT dataset includes a total of 14,586 images. These images span multiple resolutions (e.g., 640×480, 1280×960, 1920×1080) and were collected at distances ranging from 60 cm to 180 cm between camera and subject. Scene-specific image counts range from a few hundred to over 2,700, ensuring broad coverage and high diversity to support robust and generalizable pose estimation models.
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <img src="images/fig4.png" alt="Image 1" style="width: 45%;">
+  <img src="images/fig5.png" alt="Image 2" style="width: 45%;">
+</div>
 
 # 📝 Publication 
 
@@ -48,7 +54,7 @@ The MPD-OFT dataset employs a top–down perspective. The closed-circuit televis
 <div class='paper-box-text' markdown="1">
 
 [YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top–Down View](https://ieeexplore.ieee.org/document/10929680)\\
-Mingxin Yu, **Hao Dong**, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin，Zeshui Xu\\
+Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin，Zeshui Xu\\
 **Keywords**
 - Pose estimation
 - Mice
@@ -56,11 +62,6 @@ Mingxin Yu, **Hao Dong**, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingw
 - Deep learning
 </div>
 </div>
-
-
-
-
-
 
 
 # 📖 Dataset Usage Guidelines
@@ -73,11 +74,10 @@ doi: 10.1109/TIM.2025.3551854.
 We also gratefully acknowledge the support of the Intelligent Sensing and Computing Laboratory, Beijing Information Science and Technology University, for the development and release of this dataset.
 
 
-
-# 📖 Acknowledgements
+# 💬 Acknowledgements
 We would like to express our sincere gratitude to Mr. Qihao Zhang from Beijing Qiaqia Cloud Technology Co., Ltd. for providing the original dataset. We thank Hao Dong for his significant contributions to data organization, annotation, model construction, training, testing, and manuscript writing. We are also grateful to Shengjun Liang and Yiyuan Ge for their valuable guidance on data analysis and model development. Special thanks go to Xufan Miao and Chengda Yao from our laboratory for their dedicated efforts in data annotation.
 
-# 📖 How to get the dataset
+# 🔥 How to get the dataset
 **If you need to obtain the dataset, please contact [yumingxin@bistu.edu.cn](yumingxin@bistu.edu.cn) or [540083559@qq.com](540083559@qq.com)**
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
