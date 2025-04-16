@@ -65,7 +65,7 @@ Labels 0 to 6 represent the coordinates of the seven keypoints: the snout, right
   [YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top–Down View](https://ieeexplore.ieee.org/document/10929680)\\
   Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin, Zeshui Xu. Which has been accepted by IEEE Transactions on Instrumentation and Measurement,
 <div class='paper-box' style="position: relative;">
-  <img src="images/fig7.png" alt="sym" style="width: 100%; height: auto; display: block;">
+  <img src="images/fig7.png" alt="sym" style="width: 90%; height: auto; display: block;">
   <div class="badge" style="
     position: absolute;
     top: 10px;
@@ -79,7 +79,6 @@ Labels 0 to 6 represent the coordinates of the seven keypoints: the snout, right
     TIM 2025
   </div>
   <div class='paper-box-text' markdown="1">
-    <!-- Your text here -->
   </div>
 </div>
 
