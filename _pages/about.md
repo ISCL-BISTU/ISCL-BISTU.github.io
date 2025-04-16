@@ -34,7 +34,7 @@ The MPD-OFT dataset employs a top–down perspective. The closed-circuit televis
  full coverage of the experimental areas. As shown in the figure,
 (a) Top-view open-field conditions aimed to record the natural behavior of the mouse in system setup diagram. (b) and
  (c) Rectangular open-field images. (d)–(f) Cross-maze open-field images.
- (g) Morris circle water maze image. (h) Y-maze image.
+ (g) Morris circle water maze image. (h) Y-maze image.\\
 **Features**
 - Diversity of Open Field
 - Multiheight and Multiresolution Camera Settings
@@ -42,24 +42,59 @@ The MPD-OFT dataset employs a top–down perspective. The closed-circuit televis
 </div>
 </div>
 The MPD-OFT dataset includes a total of 14,586 images. These images span multiple resolutions (e.g., 640×480, 1280×960, 1920×1080) and were collected at distances ranging from 60 cm to 180 cm between camera and subject. Scene-specific image counts range from a few hundred to over 2,700, ensuring broad coverage and high diversity to support robust and generalizable pose estimation models.
+<img src="images/tab1.tif" alt="Lab Team" width="100%">
 
+Each image was annotated with seven keypoints—snout, left ear, right ear, body center, tail base, left hip, and right hip—along with a bounding box tightly enclosing the head and torso.
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="images/fig4.png" alt="Image 1" style="width: 45%;">
   <img src="images/fig5.png" alt="Image 2" style="width: 45%;">
 </div>
 
-# 📝 Publication 
+The annotation files are provided in two formats. The .txt files follow the YOLO format, containing annotations in the structure:
+{class, Cx, Cy, W, H, K1_x, K1_y, K1_v, ..., K7_x, K7_y, K7_v},
+where Cx, Cy, W, and H represent the normalized center coordinates, width, and height of the bounding box, and K1 to K7 denote the coordinates and visibility of the seven keypoints.
+
+The .json files are the original annotations generated using LabelMe. The label mouse_rect defines the top-left and bottom-right corners of the bounding box, while segmentation provides the segmentation mask of the mouse. 
+
+Labels 0 to 6 represent the coordinates of the seven keypoints: the snout, right ear, right hip, tail base, left hip, left ear, and body center, respectively.
+
+
+
+# 📝 Related Paper 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/fig7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top–Down View](https://ieeexplore.ieee.org/document/10929680)\\
 Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin，Zeshui Xu\\
-**Keywords**
-- Pose estimation
-- Mice
-- Feature extraction
-- Deep learning
+**Abstract**
+The top–down view is particularly advantageous
+for mouse pose estimation as it provides a clear, unobstructed
+perspective of the body of the mouse, enabling more accurate
+behavioral analysis. However, physiological differences make
+existing human pose estimation algorithms less applicable to
+mice, and the lack of open-source datasets hinders algorithmic
+progress in this field. To address these challenges, we present
+YOLO-MousePose, an enhanced version of the YOLO-Pose
+specifically designed for mouse pose estimation from a top–down
+view. We also construct the mouse pose dataset from open-field
+test (MPD-OFT), which includes 14 586 annotated images, with
+each image containing a single mouse. YOLO-MousePose uses
+a regression-based approach for precise keypoint localization,
+simultaneously detecting the bounding box and 2-D pose of the
+mouse in a single forward pass. The model features a fusion
+channel-specialized encoder (FCSE) module that selectively fuses
+multiscale feature information, improving sensitivity to small
+objects and effectively addressing the challenges of small object
+detection and keypoint localization. Additionally, we optimize the
+keypoint localization loss function to accelerate convergence and
+prevent performance degradation. On our open-source dataset,
+YOLO-MousePose achieves a root-mean-square error (RMSE)
+of 8.41 mm, a mean absolute error (MAE) of 5.52 mm, and an
+average percentage of correct keypoints (PCKs) score of 96.1%
+at a 0.1 threshold, matching the accuracy of the previous stateof-the-art (SOTA) algorithm GM-SCENet while using only 28%
+of its parameters. The dataset and code are publicly available at
+https://github.com/bujihao/YOLO-MousePose.
 </div>
 </div>
 
