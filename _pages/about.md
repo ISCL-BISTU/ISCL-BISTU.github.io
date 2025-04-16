@@ -33,8 +33,8 @@ Committed to pushing the boundaries of artificial intelligence, our laboratory f
     (a) Top-view open-field conditions aimed to record the natural behavior of the mouse in system setup diagram. (b) and
     (c) Rectangular open-field images. (d)–(f) Cross-maze open-field images.
     (g) Morris circle water maze image. (h) Y-maze image.\\
-
-<img src="images/fig3.png" alt="fig3" width="80%">
+    
+<img src="images/fig3.png" alt="fig3" style="display: block; margin: 0 auto;" width="80%">
 
 **Features**
   - Diversity of Open Field
