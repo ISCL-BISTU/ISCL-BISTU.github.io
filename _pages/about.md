@@ -43,7 +43,7 @@ As shown in the table, the MPD-OFT dataset includes a total of 14,586 images. Th
 <img src="images/tab1.png" alt="tab1" style="display: block; margin: 15px auto;" width="47%">
 Each image was annotated with seven keypoints—snout, left ear, right ear, body center, tail base, left hip, and right hip—along with a bounding box tightly enclosing the head and torso.
 <div style="display: flex; justify-content: center; gap: 20px; margin: 25px;">
-  <img src="images/fig4.png" alt="Image 1" style="width: 39%;">
+  <img src="images/fig4.png" alt="Image 1" style="width: 38%;">
   <img src="images/fig5.png" alt="Image 2" style="width: 50%;">
 </div>
 
@@ -61,7 +61,7 @@ The .json files are the original annotations generated using LabelMe. The label 
 Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin, Zeshui Xu. Which has been accepted by IEEE Transactions on Instrumentation and Measurement.
 
 <div class='paper-box' style="position: relative; width: fit-content; margin: 0 auto;">
-  <img src="images/fig7.png" alt="sym" style="width: 95%; height: auto; display: block;">
+  <img src="images/fig7.png" alt="sym" style="width: 96%; height: auto; display: block;">
   <div class="badge" style="
     position: absolute;
     top: 10px;
