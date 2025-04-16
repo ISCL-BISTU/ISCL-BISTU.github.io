@@ -15,17 +15,20 @@
 #   - title: "Educations"
 #     url: "/#-educations"
 main:
-  - title: "About Me"
-    url: "/#Biography"
-
-  - title: "News"
-    url: "/#News"
-
-  - title: "Publication"
-    url: "/#Yublication"
+  - title: "Introduction"
+    url: "/#Introduction"
 
   - title: "Dataset"
     url: "/#Dataset"
 
-  - title: "Educations"
-    url: "/#Educations"
+  - title: "Related Paper"
+    url: "/#Related Paper"
+
+  - title: "Dataset Usage Guidelines"
+    url: "/#Dataset Usage Guidelines"
+
+  - title: "Acknowledgements"
+    url: "/#Acknowledgements"
+
+  - title: "How to get the dataset"
+    url: "/#How to get the dataset"

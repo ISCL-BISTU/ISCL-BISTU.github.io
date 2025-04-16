@@ -21,7 +21,7 @@ The Intelligent Sensing and Computing Laboratory is dedicated to advancing the f
 Our research portfolio spans a diverse range of areas including target detection, pedestrian re-identification, behavior analysis, and multimodal intelligent human-machine interaction. In addition, we explore advanced techniques in infrared image processing, optical fiber signal intelligent detection, and biomedical signal analysis. By integrating these disciplines, we aim to create intelligent systems that can efficiently and accurately interpret complex data from various sources.
 Committed to pushing the boundaries of artificial intelligence, our laboratory focuses on both theoretical research and practical implementations. We strive to address real-world challenges by developing novel algorithms and systems, fostering an environment of interdisciplinary collaboration, and contributing to the evolution of intelligent sensing and computing technologies.
 
-# 💻 Dataset 
+# 💻 MPD-OFT Dataset 
 
   **Mouse pose dataset from open-field test (MPD-OFT)** <br>
   The MPD-OFT dataset employs a top–down perspective. The closed-circuit television (CCTV) cameras are set
