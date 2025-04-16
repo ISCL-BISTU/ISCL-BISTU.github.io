@@ -139,7 +139,7 @@ We would like to express our sincere gratitude to Mr. Qihao Zhang from Beijing Q
 <a id="How_to_get_the_dataset"></a>
 
 # 🔥 How to get the dataset
-**If you need to obtain the dataset, please contact [yumingxin@bistu.edu.cn](yumingxin@bistu.edu.cn) or [540083559@qq.com](540083559@qq.com)**
+**If you need to obtain the dataset, please contact [540083559@qq.com](540083559@qq.com) or [yumingxin@bistu.edu.cn](yumingxin@bistu.edu.cn)**
 
 
 
