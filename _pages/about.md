@@ -66,7 +66,7 @@ The .json files are the original annotations generated using LabelMe. The label 
 Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin, Zeshui Xu. Which has been accepted by IEEE Transactions on Instrumentation and Measurement.
 
 <div class='paper-box' style="position: relative; width: fit-content; margin: 0 auto;">
-  <img src="images/fig7.png" alt="sym" style="width: 96%; height: auto; display: block;">
+  <img src="images/fig7.png" alt="sym" style="width: 97%; height: auto; display: block;">
   <div class="badge" style="
     position: absolute;
     top: 10px;
