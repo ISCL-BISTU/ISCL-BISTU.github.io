@@ -43,8 +43,8 @@ As shown in the table, the MPD-OFT dataset includes a total of 14,586 images. Th
 <img src="images/tab1.png" alt="tab1" style="display: block; margin: 15px auto;" width="47%">
 Each image was annotated with seven keypoints—snout, left ear, right ear, body center, tail base, left hip, and right hip—along with a bounding box tightly enclosing the head and torso.
 <div style="display: flex; justify-content: center; gap: 20px; margin: 25px;">
-  <img src="images/fig4.png" alt="Image 1" style="width: 41%;">
-  <img src="images/fig5.png" alt="Image 2" style="width: 52%;">
+  <img src="images/fig4.png" alt="Image 1" style="width: 39%;">
+  <img src="images/fig5.png" alt="Image 2" style="width: 50%;">
 </div>
 
 The annotation files are provided in two formats. The .txt files follow the YOLO format, containing annotations in the structure:
