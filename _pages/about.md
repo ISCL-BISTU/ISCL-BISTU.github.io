@@ -34,6 +34,7 @@ Committed to pushing the boundaries of artificial intelligence, our laboratory f
     (c) Rectangular open-field images. (d)–(f) Cross-maze open-field images.
     (g) Morris circle water maze image. (h) Y-maze image.
 
+<!-- <img src="images/fig3.png" alt="fig3" style="display: block; margin: 0 auto;" width="80%"> -->
 <img src="images/fig3.png" alt="fig3" style="display: block; margin: 0 auto;" width="80%">
 
 **Features**
@@ -42,8 +43,8 @@ Committed to pushing the boundaries of artificial intelligence, our laboratory f
   - Open Scene With Background
 
 The MPD-OFT dataset includes a total of 14,586 images. These images span multiple resolutions (e.g., 640×480, 1280×960, 1920×1080) and were collected at distances ranging from 60 cm to 180 cm between camera and subject. Scene-specific image counts range from a few hundred to over 2,700, ensuring broad coverage and high diversity to support robust and generalizable pose estimation models.
-<img src="images/tab1.png" alt="tab1" style="display: block; margin: 0 auto;" width="80%">
-
+<!-- <img src="images/tab1.png" alt="tab1" style="display: block; margin: 0 auto;" width="60%"> -->
+<img src="images/tab1.png" alt="tab1" style="display: block; margin: 0 auto;" width="60%">
 Each image was annotated with seven keypoints—snout, left ear, right ear, body center, tail base, left hip, and right hip—along with a bounding box tightly enclosing the head and torso.
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="images/fig4.png" alt="Image 1" style="width: 35%;">
@@ -62,9 +63,9 @@ Labels 0 to 6 represent the coordinates of the seven keypoints: the snout, right
 
 # 📝 Related Paper 
 
-  [YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top–Down View](https://ieeexplore.ieee.org/document/10929680)\\
+  [YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top–Down View](https://ieeexplore.ieee.org/document/10929680). 
   Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin, Zeshui Xu. Which has been accepted by IEEE Transactions on Instrumentation and Measurement,
-<div class='paper-box' style="position: relative;">
+<!-- <div class='paper-box' style="position: relative;">
   <img src="images/fig7.png" alt="sym" style="width: 90%; height: auto; display: block;">
   <div class="badge" style="
     position: absolute;
@@ -80,8 +81,22 @@ Labels 0 to 6 represent the coordinates of the seven keypoints: the snout, right
   </div>
   <div class='paper-box-text' markdown="1">
   </div>
+</div> -->
+<div class='paper-box' style="position: relative; width: fit-content; margin: 0 auto;">
+  <img src="images/fig7.png" alt="sym" style="width: 90%; height: auto; display: block;">
+  <div class="badge" style="
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: #ffcc00;
+    padding: 4px 8px;
+    font-weight: bold;
+    border-radius: 4px;
+    font-size: 14px;
+  ">
+    TIM 2025
+  </div>
 </div>
-
 **Abstract**
     The top–down view is particularly advantageous
     for mouse pose estimation as it provides a clear, unobstructed
