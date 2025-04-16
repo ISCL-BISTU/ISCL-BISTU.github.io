@@ -24,7 +24,7 @@ Committed to pushing the boundaries of artificial intelligence, our laboratory f
 
 # 💻 Dataset 
 
-    **Mouse pose dataset from open-field test (MPD-OFT)** \\ 
+  **Mouse pose dataset from open-field test (MPD-OFT)** \\ 
     The MPD-OFT dataset employs a top–down perspective. The closed-circuit television (CCTV) cameras are set
     at different heights to accommodate different sizes and shapes
     of open fields, such as small rectangular open fields, spacious
@@ -43,16 +43,17 @@ Committed to pushing the boundaries of artificial intelligence, our laboratory f
   </div>
   <div class='paper-box-text' markdown="1">
 
-    **Features**
+  </div>
+  
+  **Features**
     - Diversity of Open Field
     - Multiheight and Multiresolution Camera Settings
     - Open Scene With Background
-  </div>
 </div>
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fig3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Mouse pose dataset from open-field test (MPD-OFT)** \\
+<!-- **Mouse pose dataset from open-field test (MPD-OFT)** \\
 The MPD-OFT dataset employs a top–down perspective. The closed-circuit television (CCTV) cameras are set
  at different heights to accommodate different sizes and shapes
  of open fields, such as small rectangular open fields, spacious
@@ -66,7 +67,7 @@ The MPD-OFT dataset employs a top–down perspective. The closed-circuit televis
 - Multiheight and Multiresolution Camera Settings
 - Open Scene With Background
 </div> -->
-</div>
+<!-- </div> --> -->
 The MPD-OFT dataset includes a total of 14,586 images. These images span multiple resolutions (e.g., 640×480, 1280×960, 1920×1080) and were collected at distances ranging from 60 cm to 180 cm between camera and subject. Scene-specific image counts range from a few hundred to over 2,700, ensuring broad coverage and high diversity to support robust and generalizable pose estimation models.
 <img src="images/tab1.png" alt="Lab Team" width="100%">
 
@@ -99,7 +100,7 @@ Labels 0 to 6 represent the coordinates of the seven keypoints: the snout, right
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-
+  </div>
   **Abstract**
     The top–down view is particularly advantageous
     for mouse pose estimation as it provides a clear, unobstructed
@@ -129,7 +130,6 @@ Labels 0 to 6 represent the coordinates of the seven keypoints: the snout, right
     of-the-art (SOTA) algorithm GM-SCENet while using only 28%
     of its parameters. The dataset and code are publicly available at
     https://github.com/bujihao/YOLO-MousePose.
-  </div>
 </div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/fig7.png' alt="sym" width="100%"></div></div>
