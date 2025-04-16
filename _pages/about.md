@@ -73,7 +73,7 @@ The MPD-OFT dataset includes a total of 14,586 images. These images span multipl
 
 Each image was annotated with seven keypoints—snout, left ear, right ear, body center, tail base, left hip, and right hip—along with a bounding box tightly enclosing the head and torso.
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="images/fig4.png" alt="Image 1" style="width: 45%;">
+  <img src="images/fig4.png" alt="Image 1" style="width: 35%;">
   <img src="images/fig5.png" alt="Image 2" style="width: 45%;">
 </div>
 
