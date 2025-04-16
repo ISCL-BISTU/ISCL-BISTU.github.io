@@ -34,7 +34,7 @@ Committed to pushing the boundaries of artificial intelligence, our laboratory f
     (c) Rectangular open-field images. (d)–(f) Cross-maze open-field images.
     (g) Morris circle water maze image. (h) Y-maze image.\\
 
-  <div class='paper-box'>
+  <!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge"></div>
@@ -45,11 +45,14 @@ Committed to pushing the boundaries of artificial intelligence, our laboratory f
 
   </div>
   
+</div> -->
+<img src="images/fig3.png" alt="Lab Team" width="100%">
+
   **Features**
     - Diversity of Open Field
     - Multiheight and Multiresolution Camera Settings
     - Open Scene With Background
-</div>
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fig3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -91,16 +94,25 @@ Labels 0 to 6 represent the coordinates of the seven keypoints: the snout, right
 
   [YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top–Down View](https://ieeexplore.ieee.org/document/10929680)\\
   Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin, Zeshui Xu\\
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">TIM 2025</div>
-      <img src='images/fig7.png' alt="sym" style="width: 100%; height: auto;">
-    </div>
+<div class='paper-box' style="position: relative;">
+  <img src="images/fig7.png" alt="sym" style="width: 100%; height: auto; display: block;">
+  <div class="badge" style="
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: #ffcc00;
+    padding: 4px 8px;
+    font-weight: bold;
+    border-radius: 4px;
+    font-size: 14px;
+  ">
+    TIM 2025
   </div>
   <div class='paper-box-text' markdown="1">
+    <!-- Your text here -->
   </div>
+</div>
+
   **Abstract**
     The top–down view is particularly advantageous
     for mouse pose estimation as it provides a clear, unobstructed
