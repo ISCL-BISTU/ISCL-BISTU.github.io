@@ -36,10 +36,10 @@ Committed to pushing the boundaries of artificial intelligence, our laboratory f
 
 <img src="images/fig3.png" alt="Lab Team" width="80%">
 
-  **Features**
-    - Diversity of Open Field
-    - Multiheight and Multiresolution Camera Settings
-    - Open Scene With Background
+**Features**
+  - Diversity of Open Field
+  - Multiheight and Multiresolution Camera Settings
+  - Open Scene With Background
 
 The MPD-OFT dataset includes a total of 14,586 images. These images span multiple resolutions (e.g., 640×480, 1280×960, 1920×1080) and were collected at distances ranging from 60 cm to 180 cm between camera and subject. Scene-specific image counts range from a few hundred to over 2,700, ensuring broad coverage and high diversity to support robust and generalizable pose estimation models.
 <img src="images/tab1.png" alt="Lab Team" width="100%">
