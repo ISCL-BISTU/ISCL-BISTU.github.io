@@ -32,7 +32,7 @@ Committed to pushing the boundaries of artificial intelligence, our laboratory f
   (a) Top-view open-field conditions aimed to record the natural behavior of the mouse in system setup diagram. (b) and
   (c) Rectangular open-field images. (d)–(f) Cross-maze open-field images.
   (g) Morris circle water maze image. (h) Y-maze image.
-<img src="images/fig3.png" alt="fig3" style="display: block; margin: 0 auto;" width="58%">
+<img src="images/fig3.png" alt="fig3" style="display: block; margin: 10px auto;" width="58%">
 
 **Features**
   - Diversity of Open Field
@@ -105,7 +105,7 @@ Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei L
   of-the-art (SOTA) algorithm GM-SCENet while using only 28%
   of its parameters. The dataset and code are publicly available at
   [https://github.com/bujihao/YOLO-MousePose](https://github.com/bujihao/YOLO-MousePose).
-  
+
 **Demo**
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="images/test8.gif" alt="Image 1" style="width: 40%;">
