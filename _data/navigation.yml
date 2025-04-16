@@ -1,5 +1,23 @@
 # main links links
-# main:
+main:
+  - title: "Introduction"
+    url: "#Introduction"
+
+  - title: "Dataset"
+    url: "#Dataset"
+
+  - title: "Related Paper"
+    url: "#Related Paper"
+
+  - title: "Dataset Usage Guidelines"
+    url: "#Dataset Usage Guidelines"
+
+  - title: "Acknowledgements"
+    url: "#Acknowledgements"
+
+  - title: "How to get the dataset"
+    url: "#How to get the dataset"
+    # main:
 #   - title: "About Me"
 #     url: "/#-biography"
 
@@ -14,21 +32,3 @@
 
 #   - title: "Educations"
 #     url: "/#-educations"
-main:
-  - title: "Introduction"
-    url: "/#Introduction"
-
-  - title: "Dataset"
-    url: "/#Dataset"
-
-  - title: "Related Paper"
-    url: "/#Related Paper"
-
-  - title: "Dataset Usage Guidelines"
-    url: "/#Dataset Usage Guidelines"
-
-  - title: "Acknowledgements"
-    url: "/#Acknowledgements"
-
-  - title: "How to get the dataset"
-    url: "/#How to get the dataset"
