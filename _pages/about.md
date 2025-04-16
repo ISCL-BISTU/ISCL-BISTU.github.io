@@ -113,7 +113,7 @@ Labels 0 to 6 represent the coordinates of the seven keypoints: the snout, right
   </div>
 </div>
 
-  **Abstract**
+**Abstract**
     The top–down view is particularly advantageous
     for mouse pose estimation as it provides a clear, unobstructed
     perspective of the body of the mouse, enabling more accurate
@@ -142,7 +142,7 @@ Labels 0 to 6 represent the coordinates of the seven keypoints: the snout, right
     of-the-art (SOTA) algorithm GM-SCENet while using only 28%
     of its parameters. The dataset and code are publicly available at
     https://github.com/bujihao/YOLO-MousePose.
-</div>
+
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/fig7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
