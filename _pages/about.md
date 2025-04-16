@@ -51,9 +51,7 @@ The annotation files are provided in two formats. The .txt files follow the YOLO
 {Class, Cx, Cy, W, H, K1_x, K1_y, K1_v, ..., K7_x, K7_y, K7_v},
 where Cx, Cy, W, and H represent the normalized center coordinates, width, and height of the bounding box, and K1 to K7 denote the coordinates and visibility of the seven keypoints.
 
-The .json files are the original annotations generated using LabelMe. The label mouse_rect defines the top-left and bottom-right corners of the bounding box, while segmentation provides the segmentation mask of the mouse. 
-
-Labels 0 to 6 represent the coordinates of the seven keypoints: the snout, right ear, right hip, tail base, left hip, left ear, and body center, respectively.
+The .json files are the original annotations generated using LabelMe. The label "mouse_rect" annotates the bounding box by its top-left and bottom-right corners, while the label "segmentation" provides the segmentation mask of the mouse. Labels "0" to "6" represent the coordinates of the seven keypoints: the snout, right ear, right hip, tail base, left hip, left ear, and body center, respectively.
 
 
 
