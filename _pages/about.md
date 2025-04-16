@@ -25,17 +25,17 @@ Committed to pushing the boundaries of artificial intelligence, our laboratory f
 # 💻 Dataset 
 
   **Mouse pose dataset from open-field test (MPD-OFT)** \\ 
-    The MPD-OFT dataset employs a top–down perspective. The closed-circuit television (CCTV) cameras are set
-    at different heights to accommodate different sizes and shapes
-    of open fields, such as small rectangular open fields, spacious
-    circular water mazes, or Y-shaped and cross mazes, ensuring
-    full coverage of the experimental areas. As shown in the figure,
-    (a) Top-view open-field conditions aimed to record the natural behavior of the mouse in system setup diagram. (b) and
-    (c) Rectangular open-field images. (d)–(f) Cross-maze open-field images.
-    (g) Morris circle water maze image. (h) Y-maze image.
+  The MPD-OFT dataset employs a top–down perspective. The closed-circuit television (CCTV) cameras are set
+  at different heights to accommodate different sizes and shapes
+  of open fields, such as small rectangular open fields, spacious
+  circular water mazes, or Y-shaped and cross mazes, ensuring
+  full coverage of the experimental areas. As shown in the figure,
+  (a) Top-view open-field conditions aimed to record the natural behavior of the mouse in system setup diagram. (b) and
+  (c) Rectangular open-field images. (d)–(f) Cross-maze open-field images.
+  (g) Morris circle water maze image. (h) Y-maze image.
 
 <!-- <img src="images/fig3.png" alt="fig3" style="display: block; margin: 0 auto;" width="80%"> -->
-<img src="images/fig3.png" alt="fig3" style="display: block; margin: 0 auto;" width="80%">
+<img src="images/fig3.png" alt="fig3" style="display: block; margin: 0 auto;" width="70%">
 
 **Features**
   - Diversity of Open Field
@@ -44,7 +44,7 @@ Committed to pushing the boundaries of artificial intelligence, our laboratory f
 
 The MPD-OFT dataset includes a total of 14,586 images. These images span multiple resolutions (e.g., 640×480, 1280×960, 1920×1080) and were collected at distances ranging from 60 cm to 180 cm between camera and subject. Scene-specific image counts range from a few hundred to over 2,700, ensuring broad coverage and high diversity to support robust and generalizable pose estimation models.
 <!-- <img src="images/tab1.png" alt="tab1" style="display: block; margin: 0 auto;" width="60%"> -->
-<img src="images/tab1.png" alt="tab1" style="display: block; margin: 0 auto;" width="60%">
+<img src="images/tab1.png" alt="tab1" style="display: block; margin: 0 auto;" width="55%">
 Each image was annotated with seven keypoints—snout, left ear, right ear, body center, tail base, left hip, and right hip—along with a bounding box tightly enclosing the head and torso.
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="images/fig4.png" alt="Image 1" style="width: 35%;">
