@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<a id="introduction"></a>
+<a id="Introduction"></a>
 
 # 👨‍🔬 Introduction
 The Intelligent Sensing and Computing Laboratory is dedicated to advancing the field of intelligent detection and information processing through innovative research and cutting-edge technology. Rooted in the robust theoretical foundations of deep learning and multimodal large models, our laboratory spearheads efforts in developing state-of-the-art methodologies and applications.
@@ -58,7 +58,7 @@ The .json files are the original annotations generated using LabelMe. The label 
 
 
 
-<a id="Related Paper"></a>
+<a id="Related_Paper"></a>
 
 # 📝 Related Paper 
 
@@ -122,7 +122,7 @@ Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei L
   <img src="images/test23.gif" alt="Image 2" style="width: 40%;">
 </div>
 
-<a id="Dataset Usage Guidelines"></a>
+<a id="Dataset_Usage_Guidelines"></a>
 
 # 📖 Dataset Usage Guidelines
 This dataset is released solely for research and educational purposes. Commercial use in any form is strictly prohibited. Users must comply with all applicable laws and regulations when accessing or using this dataset. Any use of the dataset, in whole or in part, for commercial purposes—including but not limited to product development, commercial services, demonstrations, or redistribution—is not permitted. Publications or reports that utilize this dataset must acknowledge its source.
@@ -136,7 +136,7 @@ We also gratefully acknowledge the support of the Intelligent Sensing and Comput
 # 💬 Acknowledgements
 We would like to express our sincere gratitude to Mr. Qihao Zhang from Beijing Qiaqia Cloud Technology Co., Ltd. for providing the original dataset. We thank Hao Dong for his significant contributions to data organization, annotation, model construction, training, testing, and manuscript writing. We are also grateful to Shengjun Liang and Yiyuan Ge for their valuable guidance on data analysis and model development. Special thanks go to Xufan Miao and Chengda Yao from our laboratory for their dedicated efforts in data annotation.
 
-<a id="How to get the dataset"></a>
+<a id="How_to_get_the_dataset"></a>
 
 # 🔥 How to get the dataset
 **If you need to obtain the dataset, please contact [yumingxin@bistu.edu.cn](yumingxin@bistu.edu.cn) or [540083559@qq.com](540083559@qq.com)**
