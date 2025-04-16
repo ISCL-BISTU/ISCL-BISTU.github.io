@@ -68,7 +68,7 @@ The MPD-OFT dataset employs a top–down perspective. The closed-circuit televis
 </div> -->
 </div>
 The MPD-OFT dataset includes a total of 14,586 images. These images span multiple resolutions (e.g., 640×480, 1280×960, 1920×1080) and were collected at distances ranging from 60 cm to 180 cm between camera and subject. Scene-specific image counts range from a few hundred to over 2,700, ensuring broad coverage and high diversity to support robust and generalizable pose estimation models.
-<img src="images/tab1.tif" alt="Lab Team" width="100%">
+<img src="images/tab1.png" alt="Lab Team" width="100%">
 
 Each image was annotated with seven keypoints—snout, left ear, right ear, body center, tail base, left hip, and right hip—along with a bounding box tightly enclosing the head and torso.
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
