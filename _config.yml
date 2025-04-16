@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hao Dong"
+title                    : "Intelligent Sensing and Computing laboratory"
 description              : "Electronic Information, School of Instrument Science and Optoelectronic Engineering "
-repository               : "bujihao/bujihao.github.io"
+repository               : "bujihao/ISCL-BISTU.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hao Dong"
-  avatar           : "images/512x512.jpg"
+  name             : "Intelligent Sensing and Computing laboratory"
+  avatar           : "images/512x512.png"
   bio              : "Beijing Information Science & Technology University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=QqCvHPgAAAAJ&hl=zh-CN&authuser=1"
-  email            : "540083559@qq.com"
-  researchgate     : "https://www.researchgate.net/profile/Hao-Dong-84?ev=hdr_xprf"
+  googlescholar    : #"https://scholar.google.com/citations?user=QqCvHPgAAAAJ&hl=zh-CN&authuser=1"
+  email            : #"540083559@qq.com"
+  researchgate     : #"https://www.researchgate.net/profile/Hao-Dong-84?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/bujihao"
+  github           : "https://github.com/ISCL-BISTU"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0001-1566-2467"
+  orcid            : #"https://orcid.org/0009-0001-1566-2467"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
