@@ -106,7 +106,7 @@ Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei L
   at a 0.1 threshold, matching the accuracy of the previous state
   of-the-art (SOTA) algorithm GM-SCENet while using only 28%
   of its parameters. The dataset and code are publicly available at
-    https://github.com/bujihao/YOLO-MousePose.
+  [https://github.com/bujihao/YOLO-MousePose](https://github.com/bujihao/YOLO-MousePose).
 
 
 # 📖 Dataset Usage Guidelines
