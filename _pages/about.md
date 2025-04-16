@@ -63,7 +63,7 @@ Labels 0 to 6 represent the coordinates of the seven keypoints: the snout, right
 Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin, Zeshui Xu. Which has been accepted by IEEE Transactions on Instrumentation and Measurement.
 
 <div class='paper-box' style="position: relative; width: fit-content; margin: 0 auto;">
-  <img src="images/fig7.png" alt="sym" style="width: 100%; height: auto; display: block;">
+  <img src="images/fig7.png" alt="sym" style="width: 95%; height: auto; display: block;">
   <div class="badge" style="
     position: absolute;
     top: 10px;
@@ -108,14 +108,16 @@ Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei L
   of its parameters. The dataset and code are publicly available at
   [https://github.com/bujihao/YOLO-MousePose](https://github.com/bujihao/YOLO-MousePose).
 **Demo**
-<p align="center">
-  <img src="utils/figures/test23.gif" width="40%" style="display: inline-block;"> 
-  <img src="utils/figures/test16.gif" width="40%" style="display: inline-block;">
-</p>
-<p align="center">
-  <img src="utils/figures/test1.gif" width="40%" style="display: inline-block;"> 
-  <img src="utils/figures/test18.gif" width="40%" style="display: inline-block;">
-</p>
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <img src="images/test23.gif" alt="Image 1" style="width: 40%;">
+  <img src="images/test16.gif" alt="Image 2" style="width: 40%;">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <img src="images/test1.gif" alt="Image 1" style="width: 40%;">
+  <img src="images/test18.gif" alt="Image 2" style="width: 40%;">
+</div>
+
 
 # 📖 Dataset Usage Guidelines
 This dataset is released solely for research and educational purposes. Commercial use in any form is strictly prohibited. Users must comply with all applicable laws and regulations when accessing or using this dataset. Any use of the dataset, in whole or in part, for commercial purposes—including but not limited to product development, commercial services, demonstrations, or redistribution—is not permitted. Publications or reports that utilize this dataset must acknowledge its source.
