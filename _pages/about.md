@@ -109,13 +109,13 @@ Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei L
   [https://github.com/bujihao/YOLO-MousePose](https://github.com/bujihao/YOLO-MousePose).
 **Demo**
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="images/test23.gif" alt="Image 1" style="width: 40%;">
-  <img src="images/test16.gif" alt="Image 2" style="width: 40%;">
+  <img src="images/test8.gif" alt="Image 1" style="width: 40%;">
+  <img src="images/test13.gif" alt="Image 2" style="width: 40%;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="images/test1.gif" alt="Image 1" style="width: 40%;">
-  <img src="images/test18.gif" alt="Image 2" style="width: 40%;">
+  <img src="images/test23.gif" alt="Image 2" style="width: 40%;">
 </div>
 
 
