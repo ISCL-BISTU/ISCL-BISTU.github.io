@@ -131,15 +131,19 @@ We kindly ask users to cite the following paper when using this dataset:
 **Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin, and Zeshui Xu, "YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top–Down View," IEEE Transactions on Instrumentation and Measurement, vol. 74, pp. 1–19, 2025, Art no. 5019319, doi: 10.1109/TIM.2025.3551854.**
 We also gratefully acknowledge the support of the Intelligent Sensing and Computing Laboratory, Beijing Information Science and Technology University, for the development and release of this dataset.
 
-<a id="Acknowledgements"></a>
 
-# 💬 Acknowledgements
-We would like to express our sincere gratitude to Mr. Qihao Zhang from Beijing Qiaqia Cloud Technology Co., Ltd. for providing the original dataset. We thank Hao Dong for his significant contributions to data organization, annotation, model construction, training, testing, and manuscript writing. We are also grateful to Shengjun Liang and Yiyuan Ge for their valuable guidance on data analysis and model development. Special thanks go to Xufan Miao and Chengda Yao from our laboratory for their dedicated efforts in data annotation.
 
 <a id="How_to_get_the_dataset"></a>
 
 # 🔥 How to get the dataset
 **If you need to obtain the dataset, please contact [540083559@qq.com](540083559@qq.com) or [yumingxin@bistu.edu.cn](yumingxin@bistu.edu.cn)**
+
+<a id="Acknowledgements"></a>
+
+# 💬 Acknowledgements
+We would like to express our sincere gratitude to Mr. Qihao Zhang from Beijing Qiaqia Cloud Technology Co., Ltd. for providing the original dataset. We thank Hao Dong for his significant contributions to data organization, annotation, model construction, training, testing, and manuscript writing. We are also grateful to Shengjun Liang and Yiyuan Ge for their valuable guidance on data analysis and model development. Special thanks go to Xufan Miao and Chengda Yao from our laboratory for their dedicated efforts in data annotation.
+
+
 
 <br><br><br><br><br><br><br>
 

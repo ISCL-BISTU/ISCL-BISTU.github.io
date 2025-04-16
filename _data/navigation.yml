@@ -12,11 +12,12 @@ main:
   - title: "Dataset Usage Guidelines"
     url: "#Dataset_Usage_Guidelines"
 
+  - title: "How to get the dataset"
+    url: "#How_to_get_the_dataset"
+
   - title: "Acknowledgements"
     url: "#Acknowledgements"
 
-  - title: "How to get the dataset"
-    url: "#How_to_get_the_dataset"
     # main:
 #   - title: "About Me"
 #     url: "/#-biography"
