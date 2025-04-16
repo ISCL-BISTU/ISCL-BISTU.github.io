@@ -35,16 +35,17 @@ Committed to pushing the boundaries of artificial intelligence, our laboratory f
   (g) Morris circle water maze image. (h) Y-maze image.
 
 <!-- <img src="images/fig3.png" alt="fig3" style="display: block; margin: 0 auto;" width="80%"> -->
-<img src="images/fig3.png" alt="fig3" style="display: block; margin: 0 auto;" width="70%">
+<img src="images/fig3.png" alt="fig3" style="display: block; margin: 0 auto;" width="65%">
 
 **Features**
   - Diversity of Open Field
   - Multiheight and Multiresolution Camera Settings
   - Open Scene With Background
 
-The MPD-OFT dataset includes a total of 14,586 images. These images span multiple resolutions (e.g., 640×480, 1280×960, 1920×1080) and were collected at distances ranging from 60 cm to 180 cm between camera and subject. Scene-specific image counts range from a few hundred to over 2,700, ensuring broad coverage and high diversity to support robust and generalizable pose estimation models.
+As shown in the table, the MPD-OFT dataset includes a total of 14,586 images. These images span multiple resolutions (e.g., 640×480, 1280×960, 1920×1080) and were collected at distances ranging from 60 cm to 180 cm between camera and subject. Scene-specific image counts range from a few hundred to over 2,700, ensuring broad coverage and high diversity to support robust and generalizable pose estimation models.
 <!-- <img src="images/tab1.png" alt="tab1" style="display: block; margin: 0 auto;" width="60%"> -->
-<img src="images/tab1.png" alt="tab1" style="display: block; margin: 0 auto;" width="55%">
+<!-- <img src="images/tab1.png" alt="tab1" style="display: block; margin: 0 auto;" width="50%"> -->
+<img src="images/tab1.png" alt="tab1" style="display: block; margin: 15px auto;" width="50%">
 Each image was annotated with seven keypoints—snout, left ear, right ear, body center, tail base, left hip, and right hip—along with a bounding box tightly enclosing the head and torso.
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="images/fig4.png" alt="Image 1" style="width: 35%;">
