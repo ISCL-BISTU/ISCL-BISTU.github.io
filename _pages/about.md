@@ -105,6 +105,7 @@ Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei L
   of-the-art (SOTA) algorithm GM-SCENet while using only 28%
   of its parameters. The dataset and code are publicly available at
   [https://github.com/bujihao/YOLO-MousePose](https://github.com/bujihao/YOLO-MousePose).
+  
 **Demo**
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="images/test8.gif" alt="Image 1" style="width: 40%;">
