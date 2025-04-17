@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Intelligent Sensing and Computing laboratory"
+title                    : "Intelligent Sensing and Computing Laboratory"
 description              : "School of Instrument Science and Optoelectronic Engineering"
 repository               : "bujihao/ISCL-BISTU.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Intelligent Sensing and Computing laboratory"
+  name             : "Intelligent Sensing and Computing Laboratory"
   avatar           : "images/512x512.png"
   bio              : "Beijing Information Science & Technology University"
   location         : "Beijing, China"

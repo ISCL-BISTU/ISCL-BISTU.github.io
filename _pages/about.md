@@ -141,7 +141,7 @@ We also gratefully acknowledge the support of the Intelligent Sensing and Comput
 <a id="Acknowledgements"></a>
 
 # 💬 Acknowledgements
-We would like to express our sincere gratitude to Mr. Qihao Zhang from Beijing Qiaqia Cloud Technology Co., Ltd. for providing the original dataset. We thank Hao Dong for his significant contributions to data organization, annotation, model construction, training, testing, and manuscript writing. We are also grateful to Shengjun Liang and Yiyuan Ge for their valuable guidance on data analysis and model development. Special thanks go to Xufan Miao and Chengda Yao from our laboratory for their dedicated efforts in data annotation.
+We would like to express our sincere gratitude to Mr. Qihao Zhang from Beijing Qiaqia Cloud Technology Co., Ltd. for providing the original dataset. We thank [Hao Dong](https://bujihao.github.io/) for his significant contributions to data organization, annotation, model construction, training, testing, and manuscript writing. We are also grateful to Shengjun Liang and Yiyuan Ge for their valuable guidance on data analysis and model development. Special thanks go to Xufan Miao and Chengda Yao from our laboratory for their dedicated efforts in data annotation.
 
 
 
