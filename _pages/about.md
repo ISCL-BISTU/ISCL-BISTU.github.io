@@ -60,7 +60,7 @@ The .json files are the original annotations generated using LabelMe. The label 
 
 <a id="Related_Paper"></a>
 
-# 📝 Related Paper 
+# 📝 Published Paper 
 
 [YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top–Down View](https://ieeexplore.ieee.org/document/10929680). 
 Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin, Zeshui Xu. Which has been accepted by **IEEE Transactions on Instrumentation and Measurement**.
