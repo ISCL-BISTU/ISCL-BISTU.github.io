@@ -125,15 +125,14 @@ Authors: Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, 
 <a id="Dataset_Usage_Guidelines"></a>
 
 # 📖 Dataset Usage Guidelines
-This dataset is released solely for research and educational purposes. Commercial use in any form is strictly prohibited. Users must comply with all applicable laws and regulations when accessing or using this dataset. Any use of the dataset, in whole or in part, for commercial purposes—including but not limited to product development, commercial services, demonstrations, or redistribution—is not permitted. Publications or reports that utilize this dataset must acknowledge its source.
-We kindly ask users to cite the following paper when using this dataset:
-
-**Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin, and Zeshui Xu, "YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top–Down View," IEEE Transactions on Instrumentation and Measurement, vol. 74, pp. 1–19, 2025, Art no. 5019319, doi: 10.1109/TIM.2025.3551854.**
+This dataset is released solely for research and educational purposes. Commercial use in any form is strictly prohibited. Users must comply with all applicable laws and regulations when accessing or using this dataset. Any use of the dataset, in whole or in part, for commercial purposes—including but not limited to product development, commercial services, demonstrations, or redistribution—is not permitted. Publications or reports that utilize this dataset must acknowledge its source.<br>
+We kindly ask users to cite the following paper when using this dataset:<br>
+**Mingxin Yu, Hao Dong, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin, and Zeshui Xu, "YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top–Down View," IEEE Transactions on Instrumentation and Measurement, vol. 74, pp. 1–19, 2025, Art no. 5019319, doi: 10.1109/TIM.2025.3551854.** <br>
 We also gratefully acknowledge the support of the Intelligent Sensing and Computing Laboratory, Beijing Information Science and Technology University, for the development and release of this dataset.
 
 
 
-<a id="How_to_get_the_dataset"></a>
+<a id="How_to_Get_the_Dataset"></a>
 
 # 🔥 How to get the dataset
 **If you need to obtain the dataset, please contact [540083559@qq.com](540083559@qq.com) or [yumingxin@bistu.edu.cn](yumingxin@bistu.edu.cn)**
