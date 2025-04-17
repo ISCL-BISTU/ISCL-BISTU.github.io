@@ -135,7 +135,7 @@ We also gratefully acknowledge the support of the Intelligent Sensing and Comput
 <a id="How_to_Get_the_Dataset"></a>
 
 # 🔥 How to get the dataset
-**If you need to obtain the dataset, please contact [540083559@qq.com](540083559@qq.com) or [yumingxin@bistu.edu.cn](yumingxin@bistu.edu.cn)**
+**If you need to obtain the dataset, please contact [yumingxin@bistu.edu.cn](yumingxin@bistu.edu.cn)**
 
 <a id="Acknowledgements"></a>
 
